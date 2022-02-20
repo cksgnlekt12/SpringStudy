@@ -1,0 +1,14 @@
+{
+  "name": "박찬휘",
+  "age": 32,
+  "car": [
+    {
+      "car_name": "아반떼",
+      "car_number": "2535"
+    },
+    {
+      "car_name": "제네시스",
+      "car_number": "1234"
+    }
+  ]
+}
